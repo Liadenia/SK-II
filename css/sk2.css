@@ -200,7 +200,10 @@ body {
   border-radius: 50%;
 }
 #navbar .control-bar .to-top a img {
-  margin: 10px auto;
+  margin: 12px auto;
+}
+#navbar .control-bar .to-top a:hover {
+  box-shadow: inset 2px 3px 5px rgba(192, 4, 4, 0.25);
 }
 
 #main_slide {
